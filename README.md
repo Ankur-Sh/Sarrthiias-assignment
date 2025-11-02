@@ -1,4 +1,4 @@
-🧭 SarrthiIAS Assignment
+<pre>🧭 SarrthiIAS Assignment
 
 A full-stack web application with Admin Dashboard, User Interface, and Secure Authentication System, built using React.js, Node.js, Express, and MongoDB.
 
@@ -140,3 +140,4 @@ Frontend stores token in localStorage.
 Protected routes (Dashboard) check for token before rendering.
 
 If token is invalid or missing → user is redirected to Login.
+</pre>
